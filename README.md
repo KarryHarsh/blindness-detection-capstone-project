@@ -4,7 +4,7 @@ Capstone project For Machine learning Nano Degree
 # Contents
 
 ### Project proposal
-it will contains the propoasl of the project based on the points mentioned in the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view)
+it contains the proposal of the project and the problem statement which need to solve with the given data. 
 
 ### Dataset
 #### 2019 kaggle competition Dataset
@@ -23,7 +23,7 @@ User can download or view the dataset in the [Resized 2015 & 2019 Blindness Dete
 * resized train 15.zip
 
 ### Report
-it will contains the final submission of the project based on the points mentioned in the [Machine Learning Capstone Project here](https://review.udacity.com/#!/rubrics/108/view)
+it contains the final submission of the project with its steps of implementation.
 
 ### Benchmark
 
