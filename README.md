@@ -41,3 +41,6 @@ It contains the codes and functionality for the final model with the soulution.
 #### Blindness-detection.pdf file
 It contains the pdf document of the final model after compilation and vizualisation of the results.
 
+#### Keras ResNet-50 weights.
+Download the ResNet-50 weights from [here](https://www.kaggle.com/keras/resnet50)
+
